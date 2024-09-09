@@ -19,35 +19,35 @@
             <img src="images/badet.png" alt="Bernadette Anover">
             <h3>BERNADETTE ANOVER</h3>
             <p>Web Developer</p>
-            <a href="#" onclick="openModal('anoverModal')">view profile</a>
+            <a onclick="openModal('anoverModal')">view profile</a>
         </div>
 
         <div class="team-member">
             <img src="images/step.png" alt="Stephanie Aringo">
             <h3>STEPHANIE ARINGO</h3>
             <p>Project Manager</p>
-            <a href="#" onclick="openModal('stephanieModal')">view profile</a>
+            <a onclick="openModal('stephanieModal')">view profile</a>
         </div>
 
         <div class="team-member">
             <img src="images/kyla.png" alt="Kyla Gonzaga">
             <h3>KYLA GONZAGA</h3>
             <p>Web Developer</p>
-            <a href="#" onclick="openModal('kylaModal')">view profile</a>
+            <a onclick="openModal('kylaModal')">view profile</a>
         </div>
 
         <div class="team-member">
             <img src="images/rem.png" alt="Remelyn Musa">
             <h3>REMELYN MUSA</h3>
             <p>Web Designer</p>
-            <a href="#" onclick="openModal('remModal')">view profile</a>
+            <a onclick="openModal('remModal')">view profile</a>
         </div>
 
         <div class="team-member">
             <img src="images/lars.png" alt="Larry Silva">
             <h3>LARRY SILVA</h3>
             <p>Web Designer</p>
-            <a href="#" onclick="openModal('larryModal')">view profile</a>
+            <a onclick="openModal('larryModal')">view profile</a>
         </div>
     </div>
 
